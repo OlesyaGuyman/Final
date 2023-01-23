@@ -6,7 +6,7 @@
 ["1234", "1567", "-2", "computer science"] -> ["-2"]
 ["Russia", "Denmark", "Kazan"] -> */
 
-string[] array = { "Tashkent", "Ufa", "Osh", "Saint-Petersbourgh", "2U" };
+string[] array = { "1234", "1567", "-2", "computer science" };
 
 int ArrLength(string[] arr)
 {
